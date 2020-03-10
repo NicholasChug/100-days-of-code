@@ -7,7 +7,7 @@
 
 **Thoughts:** I have to really focus on what to build. It's okay if the idea isn't perfect or might seem too easy at first. Spending each day practicing/learning will help in the long run
 
-**Link to work:** Nothing to report on yet! Focusing on learning Vue.js
+**Link to work:** Nothing to report on yet! Focusing on learning Vue.js. Check out the initial repo for the isItOutYet project! (https://github.com/NicholasChug/isItOutYet) nothing there yet but one day there will be!
 
 ### Day 1: March 11, 2020
 
