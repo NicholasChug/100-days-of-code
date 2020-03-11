@@ -11,11 +11,35 @@
 
 ### Day 1: March 11, 2020
 
+**Today's Progress:** Purchased Brad Traversy's Vanilla Projects course and completed the first project! This class seems great as a refresher for core HTML, CSS and JS skills. Hoping that doing this every day will create a spark for future ideas and get me back into coding each day!
+
+**Link to work:** Check out the reop for the first project, a simple Form Validator (https://github.com/NicholasChug/20WebProjects/tree/master/formValidator)
+
+### Day 2: March 12, 2020
+
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 2: March 12, 2020
+### Day 3: March 13, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 4: March 14, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 5: March 15, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 6: March 16, 2020
 
 **Today's Progress:** 
 
