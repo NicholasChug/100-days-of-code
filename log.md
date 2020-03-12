@@ -17,9 +17,9 @@
 
 ### Day 2: March 12, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Worked in the AM on the second project in the series. This project allows the user to pick certain seats in a theater and has functionality that stores the options in localStorage and updates the visual UI
 
-**Link to work:** 
+**Link to work:** Check out the second project here (https://github.com/NicholasChug/20WebProjects/tree/master/movieSeatBooking)
 
 ### Day 3: March 13, 2020
 
