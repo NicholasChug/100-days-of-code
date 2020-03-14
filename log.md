@@ -23,9 +23,9 @@
 
 ### Day 3: March 13, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Didn't get time to get to it today! But back on the horse tomorrow! Continuing on with the 20 projects plan to get back into simple project creation
 
-**Link to work:** 
+**Link to work:** N/A
 
 ### Day 4: March 14, 2020
 
