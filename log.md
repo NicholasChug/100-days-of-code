@@ -29,13 +29,13 @@
 
 ### Day 4: March 14, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Worked on project #3 and front end masters course on vue.js
 
-**Link to work:** 
+**Link to work:** No official link really!
 
 ### Day 5: March 15, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Worked on project #4 today! Going to look into the React course on Frontend Masters to see how that looks. Wasn't too excited by Vue.js, but maybe I need to build something with it to understand its functionality better!
 
 **Link to work:** 
 
