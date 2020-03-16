@@ -41,6 +41,24 @@
 
 ### Day 6: March 16, 2020
 
+**Today's Progress:** Started the DOM manipulation project but getting fetch error with Firefox. Started work from home so playing with PHP, MySQL and Apache2 setup on home computer
+
+**Link to work:** Nothing yet I'm afraid!
+
+### Day 7: March 17, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 8: March 18, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 19, 2020
+
 **Today's Progress:** 
 
 **Link to work:** 
