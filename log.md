@@ -47,9 +47,9 @@
 
 ### Day 7: March 17, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Alright today was big! Did the modal and navbar responsive layout using just html, css and javascript through Brad's course and loved it. I may implement similar things into my portfolio site which still does not have a dynamic menu system! Also work work today was getting my local environment setup for macsites and php/Wordpress stuff! Feeling very productive!
 
-**Link to work:** 
+**Link to work:** Check out the fake landing page at ((https://github.com/NicholasChug/20WebProjects/tree/master/menuSliderAndModal)
 
 ### Day 8: March 18, 2020
 
