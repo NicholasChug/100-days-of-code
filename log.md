@@ -49,7 +49,7 @@
 
 **Today's Progress:** Alright today was big! Did the modal and navbar responsive layout using just html, css and javascript through Brad's course and loved it. I may implement similar things into my portfolio site which still does not have a dynamic menu system! Also work work today was getting my local environment setup for macsites and php/Wordpress stuff! Feeling very productive!
 
-**Link to work:** Check out the fake landing page at ((https://github.com/NicholasChug/20WebProjects/tree/master/menuSliderAndModal)
+**Link to work:** Check out the fake landing page at (https://github.com/NicholasChug/20WebProjects/tree/master/menuSliderAndModal)
 
 ### Day 8: March 18, 2020
 
@@ -62,3 +62,63 @@
 **Today's Progress:** 
 
 **Link to work:** 
+
+### Day 9: March 20, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 21, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 22, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 23, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 24, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 25, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 26, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 27, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 28, 2020
+
+**Today's Progress:** 
+
+**Link to work:** 
+
+### Day 9: March 29, 2020
+
+**Today's Progress:** WELL would you look at that. Totally dropped the ball on doing these for the past 10 days but hey, at least I'm back to it? Anyways making progress on my daily dev projects with html, css and JS and it's been really cool to see how much I am retaining after doing just a little bit each day. Thinking when I'm done this course I'll move onto the egghead react course and see what I can pick up.
+
+**Link to work:** To see the ongoing list of projects I've been working on head to (https://github.com/NicholasChug/20WebProjects)
