@@ -63,62 +63,68 @@
 
 **Link to work:** 
 
-### Day 9: March 20, 2020
+### Day 10: March 20, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 21, 2020
+### Day 11: March 21, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 22, 2020
+### Day 12: March 22, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 23, 2020
+### Day 13: March 23, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 24, 2020
+### Day 14: March 24, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 25, 2020
+### Day 15: March 25, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 26, 2020
+### Day 16: March 26, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 27, 2020
+### Day 17: March 27, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 28, 2020
+### Day 18: March 28, 2020
 
 **Today's Progress:** 
 
 **Link to work:** 
 
-### Day 9: March 29, 2020
+### Day 19: March 29, 2020
 
 **Today's Progress:** WELL would you look at that. Totally dropped the ball on doing these for the past 10 days but hey, at least I'm back to it? Anyways making progress on my daily dev projects with html, css and JS and it's been really cool to see how much I am retaining after doing just a little bit each day. Thinking when I'm done this course I'll move onto the egghead react course and see what I can pick up.
 
 **Link to work:** To see the ongoing list of projects I've been working on head to (https://github.com/NicholasChug/20WebProjects)
+
+### Day 20: March 30, 2020
+
+**Today's Progress:** Completed a drag and drop app through Brad Traversy's course. It utilizes the drag and drop api available through vanilla JS! 
+
+**Link to work:** To see this specific one, head to (https://github.com/NicholasChug/20WebProjects/sortableList)
