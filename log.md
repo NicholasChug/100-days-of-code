@@ -128,3 +128,9 @@
 **Today's Progress:** Completed a drag and drop app through Brad Traversy's course. It utilizes the drag and drop api available through vanilla JS! 
 
 **Link to work:** To see this specific one, head to (https://github.com/NicholasChug/20WebProjects/sortableList)
+
+### Day 21: March 31, 2020
+
+**Today's Progress:** Finished the final project from Brad Traversy's course! Played with some PHP for work too which was alright! Starting Kent C. Dodds React course tommorrow
+
+**Link to work:** (https://github.com/NicholasChug/20WebProjects) Here is the full list of projects created from the course! Woohoo!
