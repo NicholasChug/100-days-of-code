@@ -134,3 +134,9 @@
 **Today's Progress:** Finished the final project from Brad Traversy's course! Played with some PHP for work too which was alright! Starting Kent C. Dodds React course tommorrow
 
 **Link to work:** (https://github.com/NicholasChug/20WebProjects) Here is the full list of projects created from the course! Woohoo!
+
+### Day 22: April 1, 2020
+
+**Today's Progress:** Picked a React course to follow: Net Ninja on youtube has a pretty in-depth course covering the basics of React and Redux. After this one I will be following along with his React, Redux and Firebase playlist to build a fully featured app!
+
+**Link to work:** (https://github.com/NicholasChug/netNinjaReactAndRedux)
