@@ -146,3 +146,9 @@
 **Today's Progress:** Decided instead of getting annoyed and bored with React I'll be starting a new ethical hacking course for a fun change of pace! It's a free udemy course that was advertised on Reddit
 
 **Link to work:** No link to work as of yet but thinking of setting up a new github repo as note tacking for the hacking course
+
+### Day 24: April 3, 2020
+
+**Today's Progress:** Worked through some of the hacking course. Learned about ip address and the differences between ipv4 and ipv6 which was cool!
+
+**Link to work:** No link to work as of yet but thinking of setting up a new github repo as note tacking for the hacking course
