@@ -158,3 +158,9 @@
 **Today's Progress:** Honestly did not do any coding today which was nice to take the day off! Thought about where to go in my career a little bit in terms of a path.
 
 **Link to work:** No link to work as of yet but thinking of setting up a new github repo as note tacking for the hacking course
+
+### Day 26: April 5, 2020
+
+**Today's Progress:** Found out about fullstack open online through the University of Helsinki. I've decided to go through this and gain some full-stack capabilities! Stay tuned for upcoming projects and materials
+
+**Link to work:** No link to work as of yet but thinking of setting up a new github repo as note tacking for the hacking course
