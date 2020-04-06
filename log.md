@@ -164,3 +164,9 @@
 **Today's Progress:** Found out about fullstack open online through the University of Helsinki. I've decided to go through this and gain some full-stack capabilities! Stay tuned for upcoming projects and materials
 
 **Link to work:** No link to work as of yet but thinking of setting up a new github repo as note tacking for the hacking course
+
+### Day 27: April 6, 2020
+
+**Today's Progress:** Started part0 of the Fullstack Open curriculum. Setup the git repo and made it through the fundamentals of the web section part0 b. Going to work through the exercies going over HTML and CSS review
+
+**Link to work:** Check out the curriculum repo here! (https://github.com/NicholasChug/fullstackOpen2020)
